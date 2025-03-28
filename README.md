@@ -1,8 +1,8 @@
-## Bienvenidos,
+## Bienvenidos 🙌
 ---
 Soy Michael Acosta, Licenciado en sistemas de informacion de las organizaciones, actualmente enfocado en perfeccionar mis habilidades en el análisis e ingeniería de datos. 👋
-- :computer: **Programando**: R, Python, SQL
-- 👨‍💼📊📈📁 
+- :computer:👨‍💻 **Programando**: R, Python, SQL
+- 📊📈📁 
 <!--
 **jetmike01/jetmike01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
