@@ -1,6 +1,7 @@
 ## Bienvenidos 🙌
+## Soy Michael Acosta, Licenciado en sistemas de informacion de las organizaciones, actualmente enfocado en perfeccionar mis habilidades en el análisis e ingeniería de datos. 👋😊
 ---
-Soy Michael Acosta, Licenciado en sistemas de informacion de las organizaciones, actualmente enfocado en perfeccionar mis habilidades en el análisis e ingeniería de datos. 👋
+
 - :computer:👨‍💻 **Programando**: R, Python, SQL
 - 📊📈📁 
 <!--
